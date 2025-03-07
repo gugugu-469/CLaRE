@@ -3,12 +3,9 @@
 ## Code Structure
 
 ```sh
-./checkpoint: the directory to save the trained models
-./codes: the detail code of CLaRE
 ./dataset: the directory to store the datasets
-./run_sciprt: the script of training and predicting
-./result_output: the directory to save predict files
-./run_CLaRE.py: the main python file of CLaRE
+./train_llms: the directory to train llms
+./train_bert_like_models: the directory to train bert-like models
 ```
 
 ## Dataset
