@@ -1,0 +1,291 @@
+{
+  "ADE_sc_to_tr_withtype":{
+    "file_name": "../../../datas/bidirection/ADE/sc_to_tr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_sc_to_hr_withtype":{
+    "file_name": "../../../datas/bidirection/ADE/sc_to_hr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_tr_withtype":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_tr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_hrt_withtype":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_hrt_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_hr_withtype":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_hr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_sc_to_tr":{
+    "file_name": "../../../datas/bidirection/ADE/sc_to_tr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_sc_to_hr":{
+    "file_name": "../../../datas/bidirection/ADE/sc_to_hr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_tr":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_tr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_hrt":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_hrt/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_hr":{
+    "file_name": "../../../datas/bidirection/ADE/c_to_hr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_sc_to_tr_withtype":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/sc_to_tr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_sc_to_hr_withtype":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/sc_to_hr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_tr_withtype":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_tr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_hrt_withtype":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_hrt_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_hr_withtype":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_hr_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_sc_to_tr":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/sc_to_tr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_sc_to_hr":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/sc_to_hr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_tr":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_tr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_hrt":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_hrt/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_hr":{
+    "file_name": "../../../datas/bidirection/CMeIE-V2/c_to_hr/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_ht_withtype":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/c_to_ht_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_r_withtype":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/c_to_r_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_htc_to_r_withtype":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/htc_to_r_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_rc_to_ht_withtype":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/rc_to_ht_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_ht":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/c_to_ht/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_c_to_r":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/c_to_r/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_htc_to_r":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/htc_to_r/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "CMeIE_rc_to_ht":{
+    "file_name": "../../../datas/pipeline/CMeIE-V2/rc_to_ht/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_ht_withtype":{
+    "file_name": "../../../datas/pipeline/ADE/c_to_ht_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_r_withtype":{
+    "file_name": "../../../datas/pipeline/ADE/c_to_r_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_htc_to_r_withtype":{
+    "file_name": "../../../datas/pipeline/ADE/htc_to_r_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_rc_to_ht_withtype":{
+    "file_name": "../../../datas/pipeline/ADE/rc_to_ht_withtype/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_ht":{
+    "file_name": "../../../datas/pipeline/ADE/c_to_ht/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_c_to_r":{
+    "file_name": "../../../datas/pipeline/ADE/c_to_r/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_htc_to_r":{
+    "file_name": "../../../datas/pipeline/ADE/htc_to_r/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ADE_rc_to_ht":{
+    "file_name": "../../../datas/pipeline/ADE/rc_to_ht/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+
+}

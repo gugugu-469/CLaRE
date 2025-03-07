@@ -2,7 +2,7 @@ echo "pid:$$"
 gpu=0
 cd ../
 
-data_dir=./dataset/ACE05
+data_dir=../dataset/ACE05
 method_name=gpner18ace05WithRandom
 model_dir=/root/nas/Models
 
