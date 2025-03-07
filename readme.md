@@ -12,7 +12,7 @@
 
 ## Dataset
 
-These are the datasets used in our paper:ACE05,ADE,NYT,NYT_STAR,CMeIE.
+These are the datasets used in our paper:ACE05,ADE,CMeIE.
 
 The detail of ach dataset can be found in out paper.
 
